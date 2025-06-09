@@ -68,4 +68,5 @@
   <a href="https://www.instagram.com/lowiscry/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.twitter.com/lowiscry/"><img src="https://img.shields.io/badge/Twitter-080808?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://t.me/lowiscry"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://open.spotify.com/user/e3k5zmy8omn21mtj5qal58eo8"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </div>
